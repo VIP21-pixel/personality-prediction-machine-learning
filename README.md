@@ -57,5 +57,25 @@ The objective was to determine how effectively behavioral indicators such as sta
 - Dataset
 - Project Presentation
 
+## Project Visualizations
+
+### Correlation Matrix
+
+The correlation matrix shows the relationships between behavioral variables and personality type.
+
+[Correlation Matrix](images/correlation_matrix.png)
+
+### Random Forest Confusion Matrix
+
+The confusion matrix shows how accurately the Random Forest model classified introverts and extroverts.
+
+[Random Forest Confusion Matrix](images/confusion_matrix.png)
+
+### Random Forest ROC Curve
+
+The ROC curve demonstrates the model's ability to distinguish between the two personality classes, achieving an ROC-AUC of approximately 0.93.
+
+[Random Forest ROC Curve](images/roc_curve.png)
+
 ## Author
 Vassu Patel
